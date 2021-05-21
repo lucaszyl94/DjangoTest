@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
-            'NAME': 'Imprenta',
+            'NAME': 'djangoApp',
             'USER': 'masterUsername',
             'PASSWORD': 'admin123',
             'HOST': 'rds-mysql-10mintutorial.cingksb8agbk.us-east-1.rds.amazonaws.com',
